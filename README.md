@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 My name is Kate. I am a Data Analyst with experience from completing the Yandex Practicum (https://practicum.yandex.ru) course. Here on GitHub, I share some of my projects.
 
