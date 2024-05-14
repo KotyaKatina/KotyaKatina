@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**KotyaKatina/KotyaKatina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Kate. I am a Data Analyst with experience from completing the Yandex Practicum (https://practicum.yandex.ru) course. Here on GitHub, I share some of my projects.
 
-Here are some ideas to get you started:
+## Experience and Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Completed the data analyst course at Yandex Practicum (https://practicum.yandex.ru/data-analyst/).
+- Experienced in SQL and Python.
+- Interested in data analysis.
+
+## Contact 📫
+
+You can reach me via email at [e.eremina.k@mail.ru](mailto:e.eremina.k@mail.ru) or Telegram https://t.me/katya_ei.
+
+Thank you for visiting my profile! 😊
